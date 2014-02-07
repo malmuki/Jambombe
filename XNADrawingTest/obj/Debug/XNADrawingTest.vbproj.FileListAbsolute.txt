@@ -1,0 +1,232 @@
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.exe.config
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.exe
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.pdb
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.exe
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.pdb
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Xact.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.frmCommencer.resources
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.frmIntro.resources
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.Resources.resources
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.GenerateResource.Cache
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\Interop.WMPLib.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.ResolveComReference.cache
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\JamBombe.ini
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\village.mp3
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\intro.mp3
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.vbprojResolveAssemblyReference.cache
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.vbprojResolveAssemblyReference.cache
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\Interop.WMPLib.dll
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.ResolveComReference.cache
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.frmCommencer.resources
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.frmIntro.resources
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.Resources.resources
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.GenerateResource.Cache
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\village.mp3
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\intro.mp3
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\JamBombe.ini
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.exe.config
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.exe
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.pdb
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.xml
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.exe
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.xml
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.pdb
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\Users\Francois\Copy\TP2\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.frmCombat.resources
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.exe.config
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\Interop.WMPLib.dll
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.ResolveComReference.cache
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.exe
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.xml
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.pdb
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\village.mp3
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\intro.mp3
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\JamBombe.ini
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.exe
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.pdb
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\XNADrawingTest.xml
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.vbprojResolveAssemblyReference.cache
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.frmCommencer.resources
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.frmCombat.resources
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.frmIntro.resources
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.Resources.resources
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.GenerateResource.Cache
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\06.mp3
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\23.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\33.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\390.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Battle swirl.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Battle Theme.mp3
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Cursor - Accept.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Cursor - Buzzer.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Cursor - Cancel.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Cursor - Move.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Cursor - Set.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\dungeon.mp3
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Fanfare.mp3
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\hit.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Kill2.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\pause.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\pioche.wav
+C:\Users\cegepnt\Desktop\XNADrawingTest\XNADrawingTest\bin\Debug\Run.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.exe.config
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\Interop.WMPLib.dll
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.ResolveComReference.cache
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.exe
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.xml
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.pdb
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\06.mp3
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\23.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\33.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\390.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Battle swirl.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Battle Theme.mp3
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Accept.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Buzzer.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Cancel.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Move.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Set.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\dungeon.mp3
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Fanfare.mp3
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\hit.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Kill2.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\pause.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\pioche.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Run.wav
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\village.mp3
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\intro.mp3
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\JamBombe.ini
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.exe
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.pdb
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.xml
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.vbprojResolveAssemblyReference.cache
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.frmCombat.resources
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.frmIntro.resources
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.Resources.resources
+C:\Users\Francois\Copy\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.GenerateResource.Cache
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\06.mp3
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\23.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\33.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\390.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Battle swirl.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Battle Theme.mp3
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Accept.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Buzzer.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Cancel.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Move.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Set.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\dungeon.mp3
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Fanfare.mp3
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\hit.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Kill2.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\pause.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\pioche.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Run.wav
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\village.mp3
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\intro.mp3
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\JamBombe.ini
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.exe.config
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.exe
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.pdb
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Xact.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.vbprojResolveAssemblyReference.cache
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\Interop.WMPLib.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.ResolveComReference.cache
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.frmCombat.resources
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.frmIntro.resources
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.Resources.resources
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.GenerateResource.Cache
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.exe
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.xml
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.pdb
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.exe.config
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\Interop.WMPLib.dll
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.ResolveComReference.cache
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.exe
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.xml
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.pdb
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\06.mp3
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\23.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\33.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\390.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Battle swirl.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Battle Theme.mp3
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Accept.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Buzzer.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Cancel.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Move.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Cursor - Set.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\dungeon.mp3
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Fanfare.mp3
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\hit.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Kill2.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\pause.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\pioche.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Run.wav
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\village.mp3
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\intro.mp3
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\JamBombe.ini
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.exe
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.pdb
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\XNADrawingTest.xml
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\Interop.WMPLib.dll
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.vbprojResolveAssemblyReference.cache
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.frmCommencer.resources
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.frmCombat.resources
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.frmIntro.resources
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.Resources.resources
+C:\Users\Francois\Desktop\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.vbproj.GenerateResource.Cache
+C:\Users\Apos\Copy\Cours\Prog\TP2\XNADrawingTest - Bruno update\XNADrawingTest\obj\Debug\XNADrawingTest.frmCommencer.resources

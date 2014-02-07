@@ -1,0 +1,178 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+XNADrawingTest
+</name>
+</assembly>
+<members>
+<member name="M:XNADrawingTest.Game.tP(Microsoft.Xna.Framework.Point,Microsoft.Xna.Framework.Point)">
+	<summary>
+Adds two points together.
+</summary>
+	<param name="p1">The first point</param>
+	<param name="p2">The second point</param>
+	<returns>The translated point.</returns>
+</member><member name="M:XNADrawingTest.Game.tPD(Microsoft.Xna.Framework.Point,Microsoft.Xna.Framework.Point)">
+	<summary>
+Calculates the difference between two points.
+</summary>
+	<param name="p1">The first point</param>
+	<param name="p2">The second point</param>
+	<returns>The difference between the two points.</returns>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.arbuste2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.asludge">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack10">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack3">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack4">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack5">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack6">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack7">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack8">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.attack9">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.border">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.chorking">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.contour">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.contour1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.contourATB">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.contourATBbas">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.contourATBdroit">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.contourATBgauche">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.contourATBhaut">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.cyclops">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.drider">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.fight2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.ggonghed">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.goomba1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.herbe2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.inv">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.kimoto">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.Main">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.necroman">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.pickaxe">
+	<summary>
+  Recherche une ressource localisée de type System.IO.UnmanagedMemoryStream semblable à System.IO.MemoryStream.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.roche">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.sans_titre">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:XNADrawingTest.My.Resources.Resources.walkf">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:XNADrawingTest.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>
